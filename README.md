@@ -3,6 +3,7 @@ __SteamRoller__ was a [legacy](https://www.reddit.com/r/Steam/comments/5iq5ql/ho
 ❗ Being a thing no more after major format changes, it have no releases and was uploaded _for educational purposes only_ ❗
 
 # /Featurae/:
+* Vintage terminal-based experience.
 * People asked me to continue this project.
 
 # /Reassembling/:
