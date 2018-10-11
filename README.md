@@ -9,5 +9,5 @@ __SteamRoller__ was a [legacy](https://www.reddit.com/r/Steam/comments/5iq5ql/ho
 __SteamRoller__ was fully developed in [PureBasic v5.20 (LTS)](http://purebasic.com)  
 To rebuild - compile `Main.pb` as root sourcefile.
 
-# /Brief sampling of how it all ended:
+# /Brief sampling of how it all ended/:
 ![image](https://user-images.githubusercontent.com/8768470/46821990-dfe44b00-cd92-11e8-9acc-4222804f6540.png)
